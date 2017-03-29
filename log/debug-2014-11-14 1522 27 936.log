@@ -1,0 +1,15 @@
+2014-11-14T15:22:28-05:00 'UDP Server listening on 192.168.111.105:5157'
+2014-11-14T15:22:28-05:00 'Server listening on port 8088'
+2014-11-14T15:22:28-05:00 'Going to remove job id(336) for being inactive too long'
+2014-11-14T15:22:28-05:00 'Going to remove job id(337) for being inactive too long'
+2014-11-14T15:22:28-05:00 'Going to remove job id(338) for being inactive too long'
+2014-11-14T15:22:28-05:00 'Going to remove job id(339) for being inactive too long'
+2014-11-14T15:22:28-05:00 'Going to remove job id(340) for being inactive too long'
+2014-11-14T15:22:28-05:00 'Going to remove job id(341) for being inactive too long'
+2014-11-14T15:22:28-05:00 'Going to remove job id(342) for being inactive too long'
+2014-11-14T15:22:28-05:00 'Going to remove job id(343) for being inactive too long'
+2014-11-14T15:27:44-05:00 'UDP msgPacket sent to 72.91.202.98:5228 | @DEV132:0|GPS|N 32.192052,W 111.017304,3,270,Z,00072~ | 2014-11-14 15:27:44'
+2014-11-14T15:27:55-05:00 'UDP msgPacket sent to 72.91.202.98:5228 | @DEV132:1|START~ | 2014-11-14 15:27:55'
+2014-11-14T15:31:43-05:00 'UDP msgPacket sent to 72.91.202.98:5228 | @DEV132:2|GPS|N 32.191819,W 111.017234,0,90,T,00072~ | 2014-11-14 15:31:43'
+2014-11-14T15:32:35-05:00 'UDP msgPacket sent to 72.91.202.98:5228 | @DEV191:0|START~ | 2014-11-14 15:32:35'
+

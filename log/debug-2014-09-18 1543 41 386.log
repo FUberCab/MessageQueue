@@ -1,0 +1,11 @@
+2014-09-18T15:43:42-04:00 'UDP Server listening on 192.168.111.105:5156'
+2014-09-18T15:43:42-04:00 'Server listening on port 8088'
+2014-09-18T15:43:43-04:00 'Outbound Queue Error: {}'
+2014-09-18T15:43:43-04:00 'Global redisClient Error: Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED'
+2014-09-18T15:43:43-04:00 'UnitDevices Error Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED'
+2014-09-18T15:43:43-04:00 'Outbound Queue Error: {}'
+2014-09-18T15:43:43-04:00 'uncaughtException'
+2014-09-18T15:43:43-04:00 [Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED]
+2014-09-18T15:43:44-04:00 'Global redisClient Error: Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED'
+2014-09-18T15:43:44-04:00 'UnitDevices Error Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED'
+

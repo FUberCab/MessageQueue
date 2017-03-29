@@ -1,0 +1,13 @@
+2014-11-14T17:18:21-05:00 'UDP Server listening on 192.168.111.105:5157'
+2014-11-14T17:18:21-05:00 'Server listening on port 8089'
+2014-11-14T17:18:23-05:00 'UDP msgPacket sent to 192.168.111.105:5225 | @TWIA1:E|START~ | 2014-11-14 17:18:23'
+2014-11-14T17:18:24-05:00 'UDP Server got: @TWIA1:2|START|O from 192.168.111.105:50933'
+2014-11-14T17:18:59-05:00 'UDP Server got: @TWIA1:2|START|O from 192.168.111.105:50933'
+2014-11-14T17:19:58-05:00 'UDP msgPacket sent to 192.168.111.105:5225 | @TWIA1:F|GPS|N 0,E 0,0,0,T,~ | 2014-11-14 17:19:58'
+2014-11-14T17:23:58-05:00 'UDP msgPacket sent to 192.168.111.105:5225 | @TWIA1:10|GPS|N 0,E 0,0,0,T,~ | 2014-11-14 17:23:58'
+2014-11-14T18:13:21-05:00 'Going to remove job id(358) for being inactive too long'
+2014-11-14T18:18:21-05:00 'Going to remove job id(359) for being inactive too long'
+2014-11-14T18:23:21-05:00 'Going to remove job id(360) for being inactive too long'
+2014-11-14T18:23:21-05:00 'Going to remove job id(361) for being inactive too long'
+2014-11-19T12:31:19-05:00 'uncaughtException'
+
